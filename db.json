@@ -1,0 +1,15 @@
+{
+  "stages": ["on-hold", "in-progress", "needs-review", "approved"],
+  "blocks": [
+    {
+      "id": 1,
+      "status": "on-hold",
+      "title": "Test"
+    },
+    {
+      "id": 2,
+      "status": "in-progress",
+      "title": "Test2"
+    }
+  ]
+}
